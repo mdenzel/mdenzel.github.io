@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Mike
 
-### More Information
+I work as Incident Responder in Cybersecurity and here I blog about related topics.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
